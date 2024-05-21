@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/gastrointestinal-infections-of-the-digestive-system---secondary.py
+inputModule3:
+  class: File
+  path: python/infections-of-the-digestive-system-unspecified---secondary.py
+inputModule4:
+  class: File
+  path: python/infections-of-the-digestive-system-gland---secondary.py
+inputModule5:
+  class: File
+  path: python/infections-of-the-digestive-system---secondary.py
+inputModule6:
+  class: File
+  path: python/tuberculous-infections-of-the-digestive-system---secondary.py
+inputModule7:
+  class: File
+  path: python/amoebic-infections-of-the-digestive-system---secondary.py
+inputModule8:
+  class: File
+  path: python/bacterial-infections-of-the-digestive-system---secondary.py
+inputModule9:
+  class: File
+  path: python/infections-of-the-digestive-system-shigellosis---secondary.py
+inputModule10:
+  class: File
+  path: python/infections-of-the-digestive-system-intestine---secondary.py
+inputModule11:
+  class: File
+  path: python/infections-of-the-digestive-system-classified---secondary.py
+inputModule12:
+  class: File
+  path: python/infections-of-the-digestive-system-cholera---secondary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
